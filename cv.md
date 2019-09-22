@@ -5,4 +5,4 @@
 5. '5' + 2 = 52, '5' - 2 = 3, '5' + -2 = 5-2; tyJS somehow didn’t understand this task 
 6. I wrote KYRSACH for myself and SHARAGmates, tried to get courses in TechArt, but at that time I didn't know enough Js (but the test other went well) 
 7. I think that college not an education, so none
-8. A2+, can write, read and ugly speak 
+8. A2+, can write, read and ugly speak
